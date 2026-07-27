@@ -19,6 +19,7 @@ def getTitle(url):
     try:
         html = urlopen(url)
     except HTTPError as e:
+    # this could also be without the e as we are not using the value for anything now
         return None
     try:
         bs = BeautifulSoup(html.read(), 'html.parser')

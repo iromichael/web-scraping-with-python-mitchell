@@ -29,9 +29,9 @@ pip install -r requirements.txt
 
 | Chapter | Topic | Status |
 |---|---|---|
-| 1 | How the Internet Works | ⬜ not started |
-| 2 | The Legalities and Ethics of Web Scraping | ⬜ not started |
-| 3 | Applications of Web Scraping | ⬜ not started |
+| 1 | How the Internet Works | ✅ done |
+| 2 | The Legalities and Ethics of Web Scraping | ✅ done |
+| 3 | Applications of Web Scraping | ✅ done |
 | 4 | Writing Your First Web Scraper | ✅ [done](./ch04-your-first-web-scraper) |
 | 5 | Advanced HTML Parsing | ✅ [done](./ch05-advanced-html-parsing) |
 | 6 | Writing Web Crawlers | ✅ [done](./ch06-writing-web-crawlers) |

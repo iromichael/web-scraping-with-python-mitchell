@@ -35,7 +35,7 @@ pip install -r requirements.txt
 | 4 | Writing Your First Web Scraper | ✅ [done](./ch04-your-first-web-scraper) |
 | 5 | Advanced HTML Parsing | ✅ [done](./ch05-advanced-html-parsing) |
 | 6 | Writing Web Crawlers | ✅ [done](./ch06-writing-web-crawlers) |
-| 7 | Web Crawling Models | ⬜ not started |
+| 7 | Web Crawling Models | 🔄 in progress |
 | 8 | Scrapy | ⬜ not started |
 | 9 | Storing Data | ⬜ not started |
 
